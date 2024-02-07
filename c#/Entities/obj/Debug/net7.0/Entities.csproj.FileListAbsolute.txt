@@ -1,0 +1,5 @@
+/Users/berabekirbaykal/Projects/Csharp/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/berabekirbaykal/Projects/Csharp/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berabekirbaykal/Projects/Csharp/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/berabekirbaykal/Projects/Csharp/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/berabekirbaykal/Projects/Csharp/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache

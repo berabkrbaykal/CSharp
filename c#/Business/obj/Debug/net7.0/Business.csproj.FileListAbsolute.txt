@@ -1,0 +1,5 @@
+/Users/berabekirbaykal/Projects/Csharp/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/berabekirbaykal/Projects/Csharp/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berabekirbaykal/Projects/Csharp/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/berabekirbaykal/Projects/Csharp/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/berabekirbaykal/Projects/Csharp/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
